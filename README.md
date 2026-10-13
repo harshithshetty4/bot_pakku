@@ -1,2 +1,9 @@
-# bot_pakku
-Bot Pakku
+# Bot Pakku
+
+## About
+
+This is a repository for Bot Pakku.
+
+## Maintainer
+
+Harshith S Shetty
